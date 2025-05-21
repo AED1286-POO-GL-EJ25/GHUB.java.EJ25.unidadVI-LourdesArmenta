@@ -1,3 +1,4 @@
+./miPrincipal/EscribeCamino.java
 ./miPrincipal/EscribirArchivo.java
 ./miPrincipal/Principal.java
 ./miPrincipal/ModificarArchivo.java
