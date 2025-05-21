@@ -4,7 +4,7 @@ import java.io.File;
 
 public class RenombrarArchivo {
     public static void main(String[] args) {
-        File archivo = new File("archivo.txt");
+        File archivo = new File("nuevoArchivo.txt");
         File nuevoArchivo = new File("archivoRenombrado.txt");
         if (archivo.renameTo(nuevoArchivo)) {
             System.out.println("Archivo renombrado a: " + nuevoArchivo.getName());
