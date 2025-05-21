@@ -1,2 +1,10 @@
+./miPrincipal/EscribirArchivo.java
 ./miPrincipal/Principal.java
+./miPrincipal/ModificarArchivo.java
+./miPrincipal/CrearArchivo.java
+./miPrincipal/RenombrarArchivo.java
+./miPrincipal/LeerArchivoBinario.java
+./miPrincipal/AccesoAleatorio.java
+./miPrincipal/LeerArchivo.java
+./miPrincipal/EliminarArchivo.java
 ./miTest/AppTest.java
